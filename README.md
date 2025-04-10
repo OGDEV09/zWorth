@@ -2,8 +2,9 @@
 
 zWorth ist ein Minecraft Spigot Plugin, das wie das "Worth-System" von DonutSMP funktioniert.  
 Es zeigt den aktuellen Marktwert von Items direkt im Inventar an – dynamisch, live und automatisch.
-
+![Screenshot 2025-04-10 100007](https://github.com/user-attachments/assets/4791a4b4-dcea-4f05-8e86-7d204eda07b0)
 ---
+![Screenshot 2025-04-10 095940](https://github.com/user-attachments/assets/1e56f849-2f43-4595-8c58-a7632dbb65af)
 
 ## ⚙️ Features
 
@@ -75,6 +76,7 @@ das die wirtschaftliche Bedeutung von Items in PvP & Survival spürbar macht.
 
 ```text
 [ ] GUI-Shop mit Verkaufspreisen  
+
 [ ] /sell Command zum Itemverkauf  
 [ ] Top-Worth Rangliste  
 [ ] Stats je Spieler (gesamt verkauft etc.)  
