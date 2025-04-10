@@ -11,7 +11,7 @@ Es zeigt den aktuellen Marktwert von Items direkt im Inventar an – dynamisch, 
 - 💸 Zeigt **Gesamtwert** + **Preis pro Einheit**
 - 🚫 **Dupe-sicher** & stack-limitiert auf 64
 - 🔄 **Live-Reload** über Befehl `/worthreload`
-- 🔄 **Worth GUI** über Befehl `/wort`
+- 🔄 **Worth GUI** über Befehl `/worth`
 
 ---
 
