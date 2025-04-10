@@ -13,6 +13,7 @@ Es zeigt den aktuellen Marktwert von Items direkt im Inventar an – dynamisch, 
 - 💸 Zeigt **Gesamtwert** + **Preis pro Einheit**
 - 🚫 **Dupe-sicher** & stack-limitiert auf 64
 - 🔄 **Live-Reload** über Befehl `/worthreload`
+- 🔄 **Worth GUI** über Befehl `/wort`
 
 ---
 
@@ -45,6 +46,9 @@ items:
 | Befehl           | Beschreibung                      | Permission        |
 |------------------|-----------------------------------|-------------------|
 | `/worthreload`   | Lädt die Plugin-Konfiguration neu | `zworth.reload`   |
+| `/worth`         | OPEN WORTH GUI                    | `non`   |
+
+
 
 ---
 
